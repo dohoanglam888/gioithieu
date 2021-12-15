@@ -4,7 +4,7 @@
         <title>GIỚI THIỆU BẢN THÂN | PROFILE</title>
 <meta content='width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0' name='viewport'/>
 <link href='//file.leanhduc.pro.vn/image/favicon.png' rel='shortcut icon' type='image/x-icon'/>
-<meta content='https://i.imgur.com/sClJzm8.jpg' property='og:image'/>
+<meta content='http://3.bp.blogspot.com/-Co-VxEIi8Hc/Vlfkm65g5gI/AAAAAAAAAHE/Cc9AzcwmLyk/s1600/K.png' property='og:image'/>
 <meta content='https://codeprof1.blogspot.com/' property='og:url'/>
 <meta content='website' property='og:type'/>
 <meta content='Đỗ Hoàng Lâm' property='og:title'/>
